@@ -5,7 +5,6 @@ import java.lang.*;
 
 public class startJava {
 	
-	//-- attributs --// 
 	//-- type primaire --// 
 	//--> Entier
 	private byte 	integerVal8bits; 
