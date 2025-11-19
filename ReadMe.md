@@ -1,4 +1,4 @@
-# POBJ - Cours de programmation objet année 2024 - 2025 - V3_1
+# POBJ - Cours de programmation objet année 2025 - 2026 - V3_4
 ## Infos Pratiques sur Git
 
 ### Créer un compte sur un serveur GIT 
